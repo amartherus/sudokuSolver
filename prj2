@@ -1,0 +1,10 @@
+#!/bin/bash
+# name: Andrew Martherus
+# CS490
+# Project2
+# filename prj2
+# Instructor- Wayne Boyer
+#
+# Your program expects one argument
+# replace the following line with a shell command that executes your program.
+time python  prj2.py $1

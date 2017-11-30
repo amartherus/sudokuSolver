@@ -1,0 +1,6 @@
+#!/bin/bash
+# CS490
+# Project2
+# filename- project2
+# This shell command should be used to run the prj2 file to redirect output
+prj2 sudokuProblem > prj2.out.txt 2>&1
