@@ -1,6 +1,6 @@
 # sudokuSolver
 
-takes a text file in the format of the "sudokuProblem.txt" file in this repo. 
+takes a text file in the format of the "sudokuProblem.txt" file in this repo. (9x9, empty squares represented by an underscore).
 
 Solves all solvable sudoku problems using a modified backtracking algorithm.
 (For those who are unfamiliar) the backtracking algorithm will essentially just take a guess at a given square on the board 
